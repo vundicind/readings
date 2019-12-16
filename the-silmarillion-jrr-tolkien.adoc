@@ -1,0 +1,291 @@
+= The Silmarillion, by J.R.R. Tolkine
+
+hearkened:: 3 https://en.wiktionary.org/wiki/hearkened 
+
+dwelling:: 3 https://en.wiktionary.org/wiki/dwelling locuință
+
+brethren:: 3 https://en.wiktionary.org/wiki/brethren
+
+mighty:: 3 https://en.wiktionary.org/wiki/mighty
+
+bowed:: 3 https://en.wiktionary.org/wiki/bowed
+
+ye:: 3 https://en.wiktionary.org/wiki/ye
+
+kindled:: 3 https://en.wiktionary.org/wiki/kindled
+
+forth:: 3 https://en.wiktionary.org/wiki/forth
+
+woven:: 3 https://en.wiktionary.org/wiki/woven țesut
+
+utterance:: 4 https://en.wiktionary.org/wiki/utterance rostire uuter - ro say
+
+despondent:: 4 https://en.wiktionary.org/wiki/despondent descurajat From Latin despondere (“to give up, to abandon”).
+
+faltered:: 4 https://en.wiktionary.org/wiki/faltered se clătina
+
+attune:: 4 https://en.wiktionary.org/wiki/attune acorda
+
+foundered:: 4 https://en.wiktionary.org/wiki/foundered scufundat From Middle French fondrer (“send to the bottom”), from Latin fundus (“bottom”)
+
+raging:: 4 https://en.wiktionary.org/wiki/raging  in a state of rage
+
+wrath:: 4 https://en.wiktionary.org/wiki/wrath mînie great anger (formal or old-fashioned)
+
+assuaged::
+4
+https://en.wiktionary.org/wiki/assuaged
+/əˈsweɪdʒ/
+potolită, a potoli
+
+arose:: 5 https://en.wiktionary.org/wiki/arose s-a ivit
+
+amid:: 5 https://en.wiktionary.org/wiki/amid în mijlocul
+
+uproar:: 5 https://en.wiktionary.org/wiki/uproar zarvă
+
+contended:: 5 https://en.wiktionary.org/wiki/contended înfruntat
+
+dismayed:: 5 https://en.wiktionary.org/wiki/dismayed descurajat nspaimntat alteration of Old French esmaier (“to frighten”), probably from Vulgar Latin *exmagare (“to deprive (someone) of strength, to disable”) 
+
+stern:: 5 https://en.wiktionary.org/wiki/stern sever aspru
+
+mere:: 5 https://en.wiktionary.org/wiki/mere nu mai mult de
+
+rippling:: 5 https://en.wiktionary.org/wiki/rippling clipocit
+
+quenched:: 5 https://en.wiktionary.org/wiki/quenched potoli
+
+utterly:: 5 https://en.wiktionary.org/wiki/utterly absolut complet
+
+variance:: 5 https://en.wiktionary.org/wiki/variance în dezacord
+
+chiefly:: 5 https://en.wiktionary.org/wiki/chiefly în special
+
+clamorous:: 5 https://en.wiktionary.org/wiki/clamorous gălăgios
+
+essayed:: 5 https://en.wiktionary.org/wiki/essayed încerca a înainta
+
+drown:: 5 https://en.wiktionary.org/wiki/drown înecat
+
+midst:: 5 https://en.wiktionary.org/wiki/midst mijlocul
+
+strife:: 5 https://en.wiktionary.org/wiki/strife ceartă
+
+behold:: 5 https://en.wiktionary.org/wiki/behold a privi
+
+ceased:: 5 https://en.wiktionary.org/wiki/ceased încetat oprit
+
+gazed:: 7 privi
+
+minstrelsy:: 7 
+
+conceived:: 7 conceput
+
+propounded:: 7 expune propune
+
+wherein:: 7 unde
+
+wisdom:: 7 intelepciune
+
+bent:: 7 indoit
+
+feigned:: 7 inventat
+
+thinther:: 7 acolo
+
+turmoils:: 7 perioade grele
+
+subdue:: 7 supune
+
+envying:: 7 pizma
+
+rejoiced:: 8 s-a bucurat
+
+unquiet:: 8 tulburare
+
+praised:: 8 laudat
+
+deed:: 8 fapt
+
+hoards:: 8 economisi
+
+wrought:: 9 lucrat
+
+fulfilment:: 9 implinirea
+
+thenceforward:: 10 de atunci inainte
+
+astounded:: 10 uluit
+
+naught:: 10 nimic
+
+meddled:: 10 amestecat
+
+coveted:: 10 rivni
+
+strife:: 10 cearta
+
+hue:: 11
+
+raiment:: 11 haine
+
+clad:: 11 imbracat
+
+tumults:: 12 rascoale
+
+endeavoured:: 12 efort
+
+delved:: 12
+
+enamoured:: 15
+
+manifold:: 15 varietate
+
+delight:: 16 incintare
+
+swift:: 16 rapid
+
+bidding:: 16 porunca
+
+dread:: 17 groaza
+
+strides:: 17 parasi
+
+helm:: 17 cirma
+
+shimmering:: 17 sclipire
+
+nonetheless:: 17 cu toate acestea
+
+shores:: 17 tarmuri
+
+firths:: 17 limanuri
+
+wrought:: 17 forjat
+
+longing:: 17 dor
+
+griefs:: 17 dureri
+
+smith:: 17 fierar
+
+gems:: 18 bijuterii
+
+praise:: 18 lauda
+
+mockery:: 18 bataie de joc
+
+spouse:: 18 sotia
+
+moss:: 18 muschi
+
+mould:: 18 mucegai
+
+robed:: 18 invesmintata
+
+dew:: 18 roua
+
+barrent:: 18 sterp
+
+slain:: 19 ucisi
+
+bidding:: 19 porunca
+
+burden:: 19 povara
+
+grief:: 19 povara
+
+mourns:: 19 jeleste
+
+weep:: 19 plinge
+
+steed:: 20 armasar
+
+beard:: 20 barba
+
+ruddy:: 20 rumen
+
+dtreadful::20 inspaimintator
+
+unwillingly:: 20 fara voie
+
+scarlet:: 20 stacojiu
+
+forfeited:: 23 pierdut
+
+malice:: 23 rautate
+
+coeval:: 23 contemporan
+
+squandered:: 23 risipi
+
+coveted:: 23 rivnit
+
+allegiance:: 23 fidel
+
+treacherous:: 23 perfid
+
+scourges:: 23 flageluri
+
+invatatura:: 23 lore
+
+deceits:: 23 inselatorii
+
+cunning:: 23 viclenie
+
+ere:: 27 mai inainte
+
+hardihood:: 27 indrazneala
+
+scattering:: 27 imprastiind
+
+wrath:: 27 minie
+
+brooded:: 27
+
+devised:: 27 inceput
+
+primeval:: 27 primitiv
+
+twilight:: 28 amurg
+
+weary:: 28 obosit
+
+hatred:: 28
+
+deemed:: 28 prezumtia
+
+delving:: 29 intrarea
+
+marred:: 29 schimonosita
+
+rotted:: 29 putrezita
+
+choked:: 29 sufoca
+
+weeds:: 29 buruieni
+
+struck:: 29 lovi
+
+blow:: 29 suflare
+
+abiding:: 30 respectabil
+
+slender:: 31 subtire
+
+dappled:: 31 pestrit
+
+fluttering:: 31 filfit
+
+glittering:: 31 scinteietor
+
+swung:: 31 legana
+
+blossom:: 31 inflorire
+
+waxed:: 31 ceara
+
+faint:: 32 lesin
+
+mingled:: 32 amestecate
