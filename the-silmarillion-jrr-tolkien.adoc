@@ -114,23 +114,23 @@ wrought:: 9 https://en.wiktionary.org/wiki/wrought forjat ornamentat
 
 fulfilment:: 9 https://en.wiktionary.org/wiki/fulfilment realizare
 
-thenceforward:: 10 de atunci inainte
+thenceforward:: 10 https://en.wiktionary.org/wiki/thenceforward de atunci inainte
 
-astounded:: 10 uluit
+astounded:: 10 https://en.wiktionary.org/wiki/astounded uluit
 
-naught:: 10 nimic
+naught:: 10 https://en.wiktionary.org/wiki/naught nimic (archaic) Nothingness
 
-meddled:: 10 amestecat
+meddled:: 10 https://en.wiktionary.org/wiki/meddled amestecat from Latin misceō (“to mix”)
 
-coveted:: 10 rivni
+coveted:: 10 https://en.wiktionary.org/wiki/coveted rîvni
 
-strife:: 10 cearta
+strife:: 10 https://en.wiktionary.org/wiki/strife ceartă
 
-hue:: 11
+hue:: 11 https://en.wiktionary.org/wiki/hue
 
-raiment:: 11 haine
+raiment:: 11 https://en.wiktionary.org/wiki/raiment haine (archaic or literary) Clothing
 
-clad:: 11 imbracat
+clad:: 11 https://en.wiktionary.org/wiki/clad imbracat
 
 tumults:: 12 rascoale
 
