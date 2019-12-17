@@ -76,43 +76,43 @@ behold:: 5 https://en.wiktionary.org/wiki/behold a privi
 
 ceased:: 5 https://en.wiktionary.org/wiki/ceased încetat oprit
 
-gazed:: 7 privi
+gazed:: 7 https://en.wiktionary.org/wiki/gazed privire fixa
 
-minstrelsy:: 7 
+minstrelsy:: 7 https://en.wiktionary.org/wiki/minstrelsy bard
 
-conceived:: 7 conceput
+conceived:: 7 https://en.wiktionary.org/wiki/conceived conceput
 
-propounded:: 7 expune propune
+propounded:: 7 https://en.wiktionary.org/wiki/propounded propune
 
-wherein:: 7 unde
+wherein:: 7 https://en.wiktionary.org/wiki/wherein unde
 
-wisdom:: 7 intelepciune
+wisdom:: 7 https://en.wiktionary.org/wiki/wisdom intelepciune
 
-bent:: 7 indoit
+bent:: 7 https://en.wiktionary.org/wiki/bent indoit curbat
 
-feigned:: 7 inventat
+feigned:: 7 https://en.wiktionary.org/wiki/feigned simulat
 
-thinther:: 7 acolo
+thinther:: 7 https://en.wiktionary.org/wiki/thither acolo
 
-turmoils:: 7 perioade grele
+turmoils:: 7 https://en.wiktionary.org/wiki/turmoils perioade grele stare de haos
 
-subdue:: 7 supune
+subdue:: 7 https://en.wiktionary.org/wiki/subdue supune
 
-envying:: 7 pizma
+envying:: 7 https://en.wiktionary.org/wiki/envying invidie from Old French envie, from Latin invidia (“envy”)
 
-rejoiced:: 8 s-a bucurat
+rejoiced:: 8 https://en.wiktionary.org/wiki/rejoiced s-a bucurat
 
-unquiet:: 8 tulburare
+unquiet:: 8 https://en.wiktionary.org/wiki/unquiet tulburat
 
-praised:: 8 laudat
+praised:: 8 https://en.wiktionary.org/wiki/praised laudat  borrowed from Old French proisier, preisier (“to value, prize”), from Late Latin pretiō (“to value, prize”) from pretium (“price, worth, reward”)
 
-deed:: 8 fapt
+deed:: 8 https://en.wiktionary.org/wiki/deed fapta contract
 
-hoards:: 8 economisi
+hoards:: 8 https://en.wiktionary.org/wiki/hoards comoara a stringe a aduna Cognate with German Hort (“hoard; refuge”)
 
-wrought:: 9 lucrat
+wrought:: 9 https://en.wiktionary.org/wiki/wrought forjat ornamentat
 
-fulfilment:: 9 implinirea
+fulfilment:: 9 https://en.wiktionary.org/wiki/fulfilment realizare
 
 thenceforward:: 10 de atunci inainte
 
