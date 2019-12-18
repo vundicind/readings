@@ -132,43 +132,41 @@ raiment:: 11 https://en.wiktionary.org/wiki/raiment haine (archaic or literary) 
 
 clad:: 11 https://en.wiktionary.org/wiki/clad imbracat
 
-tumults:: 12 rascoale
+tumults:: 12 https://en.wiktionary.org/wiki/tumults zarva tulburare From Latin tumultus (“noise, tumult”)  
 
-endeavoured:: 12 efort
+endeavoured:: 12 https://en.wiktionary.org/wiki/endeavoured s-a straduit
 
-delved:: 12
+delved:: 12 https://en.wiktionary.org/wiki/delved a scotocit
 
-enamoured:: 15
+enamoured:: 15 https://en.wiktionary.org/wiki/enamoured
 
-manifold:: 15 varietate
+manifold:: 15 https://en.wiktionary.org/wiki/manifold variat
 
-delight:: 16 incintare
+delight:: 16 https://en.wiktionary.org/wiki/delight incintare bucurie delectare from Latin delectare (“to delight, please”)
 
-swift:: 16 rapid
+swift:: 16 https://en.wiktionary.org/wiki/swift iute rapid
 
-bidding:: 16 porunca
+bidding:: 16 https://en.wiktionary.org/wiki/bidding oferta invitatie somare
 
-dread:: 17 groaza
+dread:: 17 https://en.wiktionary.org/wiki/dread teama groaza
 
-strides:: 17 parasi
+strides:: 17 https://en.wiktionary.org/wiki/strides a merge cu pasi mari
 
-helm:: 17 cirma
+helm:: 17 https://en.wiktionary.org/wiki/helm cirma
 
-shimmering:: 17 sclipire
+shimmering:: 17 https://en.wiktionary.org/wiki/shimmering licarire a luci
 
-nonetheless:: 17 cu toate acestea
+nonetheless:: 17 https://en.wiktionary.org/wiki/nonetheless cu toate acestea
 
-shores:: 17 tarmuri
+shores:: 17 https://en.wiktionary.org/wiki/shores tarmuri
 
-firths:: 17 limanuri
+firths:: 17 https://en.wiktionary.org/wiki/firths limanuri
 
-wrought:: 17 forjat
+longing:: 17 https://en.wiktionary.org/wiki/longing dor
 
-longing:: 17 dor
+griefs:: 17 https://en.wiktionary.org/wiki/griefs dureri from Latin gravis (“heavy, grievous, sad”)
 
-griefs:: 17 dureri
-
-smith:: 17 fierar
+smith:: 17 https://en.wiktionary.org/wiki/smith fierar
 
 gems:: 18 bijuterii
 
@@ -286,6 +284,4 @@ blossom:: 31 inflorire
 
 waxed:: 31 ceara
 
-faint:: 32 lesin
-
-mingled:: 32 amestecate
+faint:: 32 https://en.wiktionary.org/wiki/faint lesin
