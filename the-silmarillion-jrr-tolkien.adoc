@@ -168,23 +168,21 @@ griefs:: 17 https://en.wiktionary.org/wiki/griefs dureri from Latin gravis (“h
 
 smith:: 17 https://en.wiktionary.org/wiki/smith fierar
 
-gems:: 18 bijuterii
+gems:: 18 https://en.wiktionary.org/wiki/gems bijuterii from Latin gemma (“a swelling bud; a jewel; gem”)
 
-praise:: 18 lauda
+mockery:: 18 https://en.wiktionary.org/wiki/mockery bataie de joc  Middle French mocquerie, moquerie, from moquer, moker (“to mock”) + -erie (“-ery”), perhaps from Greek μωκός (mokós, “mocker”)
 
-mockery:: 18 bataie de joc
+spouse:: 18 https://en.wiktionary.org/wiki/spouse sotia aphesis from Latin spōnsus m (“bridegroom”), spōnsa f (“bride”)
 
-spouse:: 18 sotia
+moss:: 18 https://en.wiktionary.org/wiki/moss muschi  Latin muscus (“moss”)
 
-moss:: 18 muschi
+mould:: 18 https://en.wiktionary.org/wiki/mould mucegai from Latin modulus
 
-mould:: 18 mucegai
+robed:: 18 https://en.wiktionary.org/wiki/robed invesmintata
 
-robed:: 18 invesmintata
+dew:: 18 https://en.wiktionary.org/wiki/dew roua
 
-dew:: 18 roua
-
-barrent:: 18 sterp
+barrent:: 18 https://en.wiktionary.org/wiki/barrent sterp
 
 slain:: 19 ucisi
 
