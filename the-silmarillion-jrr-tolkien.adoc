@@ -206,78 +206,76 @@ unwillingly:: 20 fara voie fara a vrea
 
 scarlet:: 20 https://en.wiktionary.org/wiki/scarlet stacojiu
 
-forfeited:: 23 pierdut
+forfeited:: 23 https://en.wiktionary.org/wiki/forfeited 1. amenda 2. pierdere a drepturilor 3. confiscare
 
-malice:: 23 rautate
+malice:: 23 https://en.wiktionary.org/wiki/malice rautate  from Latin malitia (“badness, bad quality, ill-will, spite”), from malus (“bad”).
 
-coeval:: 23 contemporan
+coeval:: 23 https://en.wiktionary.org/wiki/coeval contemporan Late Latin coaevus, from Latin con- (“equal”) + aevum (“age”).
 
-squandered:: 23 risipi
+squandered:: 23 https://en.wiktionary.org/wiki/squandered risipi
 
-coveted:: 23 rivnit
+coveted:: 23 https://en.wiktionary.org/wiki/coveted rivnit
 
-allegiance:: 23 fidel
+allegiance:: 23 https://en.wiktionary.org/wiki/allegiance fidel
 
-treacherous:: 23 perfid
+treacherous:: 23 https://en.wiktionary.org/wiki/treacherous perfid
 
-scourges:: 23 flageluri
+scourges:: 23 https://en.wiktionary.org/wiki/scourges flageluri from Vulgar Latin excorrigiare, consisting of ex- (“thoroughly”) + corrigia (“thong, whip”)
 
-invatatura:: 23 lore
+lore:: 23 https://en.wiktionary.org/wiki/lore invatatura
 
-deceits:: 23 inselatorii
+deceits:: 23 https://en.wiktionary.org/wiki/deceits inselatorii from Latin dēcipere (“to cheat, mislead”)
 
-cunning:: 23 viclenie
+cunning:: 23 https://en.wiktionary.org/wiki/cunning viclenie
 
-ere:: 27 mai inainte
+ere:: 27 https://en.wiktionary.org/wiki/ere mai inainte
 
-hardihood:: 27 indrazneala
+hardihood:: 27 https://en.wiktionary.org/wiki/hardihood indrazneala
 
-scattering:: 27 imprastiind
+wrath:: 27 https://en.wiktionary.org/wiki/wrath minie
 
-wrath:: 27 minie
+brooded:: 27 https://en.wiktionary.org/wiki/brooded
 
-brooded:: 27
+devised:: 27 https://en.wiktionary.org/wiki/devised inceput  from Vulgar Latin devisō, from Latin dīvisō, frequentative of dīvidō.
 
-devised:: 27 inceput
+primeval:: 27 https://en.wiktionary.org/wiki/primeval primitiv from Latin primaevus (“in the first or earliest period of life”), from primus (“first”) + aevum (“time, age”); see prime and age.
 
-primeval:: 27 primitiv
+twilight:: 28 https://en.wiktionary.org/wiki/twilight amurg
 
-twilight:: 28 amurg
+weary:: 28 https://en.wiktionary.org/wiki/weary obosit
 
-weary:: 28 obosit
+hatred:: 28 https://en.wiktionary.org/wiki/hatred
 
-hatred:: 28
+deemed:: 28 https://en.wiktionary.org/wiki/deemed prezumtia
 
-deemed:: 28 prezumtia
+delving:: 29 https://en.wiktionary.org/wiki/delving intrarea
 
-delving:: 29 intrarea
+marred:: 29 https://en.wiktionary.org/wiki/marred schimonosita
 
-marred:: 29 schimonosita
+rotted:: 29 https://en.wiktionary.org/wiki/rotted putrezita
 
-rotted:: 29 putrezita
+choked:: 29 https://en.wiktionary.org/wiki/choked sufoca
 
-choked:: 29 sufoca
+weeds:: 29 https://en.wiktionary.org/wiki/weeds buruieni
 
-weeds:: 29 buruieni
+struck:: 29 https://en.wiktionary.org/wiki/struck lovi
 
-struck:: 29 lovi
+blow:: 29 https://en.wiktionary.org/wiki/blow suflare
 
-blow:: 29 suflare
+abiding:: 30 https://en.wiktionary.org/wiki/abiding respectabil
 
-abiding:: 30 respectabil
+slender:: 31 https://en.wiktionary.org/wiki/slender subtire
 
-slender:: 31 subtire
+dappled:: 31 https://en.wiktionary.org/wiki/dappled pestrit
 
-dappled:: 31 pestrit
+fluttering:: 31 https://en.wiktionary.org/wiki/fluttering filfit
 
-fluttering:: 31 filfit
+glittering:: 31 https://en.wiktionary.org/wiki/glittering scinteietor
 
-glittering:: 31 scinteietor
+swung:: 31 https://en.wiktionary.org/wiki/swung legana
 
-swung:: 31 legana
+blossom:: 31 https://en.wiktionary.org/wiki/blossom inflorire
 
-blossom:: 31 inflorire
-
-waxed:: 31 ceara
+waxed:: 31 https://en.wiktionary.org/wiki/waxed ceara
 
 faint:: 32 https://en.wiktionary.org/wiki/faint lesin
