@@ -186,27 +186,25 @@ barrent:: 18 https://en.wiktionary.org/wiki/barrent sterp
 
 slain:: 19 ucisi
 
-bidding:: 19 porunca
+burden:: 19 https://en.wiktionary.org/wiki/burden 1. povara, greutate 2. refren
 
-burden:: 19 povara
+grief:: 19 https://en.wiktionary.org/wiki/grief  1. durere, mihnire, necaz from Latin gravis (“heavy, grievous, sad”)
 
-grief:: 19 povara
+mourns:: 19 https://en.wiktionary.org/wiki/mourns a plinge, a jeli
 
-mourns:: 19 jeleste
+weep:: 19 https://en.wiktionary.org/wiki/weep 1. a deplinge 2. a musti, a zemui
 
-weep:: 19 plinge
+steed:: 20 https://en.wiktionary.org/wiki/steed armasar
 
-steed:: 20 armasar
+beard:: 20 https://en.wiktionary.org/wiki/beard barba
 
-beard:: 20 barba
+ruddy:: 20 https://en.wiktionary.org/wiki/ruddy rumen
 
-ruddy:: 20 rumen
+dtreadful:: 20 https://en.wiktionary.org/wiki/dreadful inspaimintator
 
-dtreadful::20 inspaimintator
+unwillingly:: 20 fara voie fara a vrea
 
-unwillingly:: 20 fara voie
-
-scarlet:: 20 stacojiu
+scarlet:: 20 https://en.wiktionary.org/wiki/scarlet stacojiu
 
 forfeited:: 23 pierdut
 
