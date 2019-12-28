@@ -279,3 +279,23 @@ blossom:: 31 https://en.wiktionary.org/wiki/blossom inflorire
 waxed:: 31 https://en.wiktionary.org/wiki/waxed ceara
 
 faint:: 32 https://en.wiktionary.org/wiki/faint lesin
+
+bloom:: 32 https://en.wiktionary.org/wiki/bloom s. floare; puf (pe fructe). vi. a inflori
+
+glimmer:: 32 https://en.wiktionary.org/wiki/glimmer s. licărire. vi. a licări
+
+dawn:: 32 https://en.wiktionary.org/wiki/dawn s. zori de zi. vi. a se crăpa de ziuă; a apărea
+
+reckoned:: 32 https://en.wiktionary.org/wiki/reckoned socotit
+
+reckon:: 32 https://en.wiktionary.org/wiki/reckon#English vt. a calcula; a scoti; a aprecia. vi. a face socoteli, calcule; a crede, a presupune
+
+dwelt:: 32 https://en.wiktionary.org/wiki/dwell vi. a trăi; a locui
+
+abroad:: 32 https://en.wiktionary.org/wiki/abroad adv. în străinătate; peste tot; afară; în public; în diferite direcții; peste granița; greșit
+
+wielded:: 32 https://en.wiktionary.org/wiki/wield#English vt. a stăpîni; a conduce; a mînui (o unealta, o arma etc)
+
+furnaces:: 32 https://en.wiktionary.org/wiki/furnace#English s. furnal; coș; cuptor;
+
+whatsoever:: 32 https://en.wiktionary.org/wiki/whatsoever pron. orice, oricare; indiferent ce; (cu neg.) nici un, de locui
