@@ -143,3 +143,218 @@ shunting:: 7 manevra
 rumbling:: 7 horoitor
 
 tranquil:: 7 calm
+
+hissing:: 9 fîsîit; șuierat
+
+persuaded:: 9 convins
+
+gravel:: 9 pietriș
+
+flung:: 9 aruncat
+
+heath:: 10 pîrloaga
+
+heather:: 10
+
+heaps:: 10 grămezi
+
+dawn:: 10 zori
+
+splinters:: 10 așchii
+
+fir:: 10 brad
+
+shivered:: 10 înfiorat
+
+caked:: 10 încleiat
+
+scaly:: 10 solzos
+
+dun-coloured:: 10 sir
+
+stirring:: 10 agitat
+
+hollow:: 10 găunos
+
+cindery:: 10 moale
+
+clinker:: 10
+
+ashy:: 10 sclipitor
+
+muffled:: 11 înăbușit
+
+grating:: 11 zgîrîia
+
+confied:: 11 înggrădit
+
+dreadful:: 11 înspăimîntător
+
+dull:: 11 greoi
+
+irresolute:: 11 nehotărît
+
+scrambled:: 11 cățărat
+
+potman:: 11
+
+sobered:: 11 sobru
+
+palings:: 11 gard
+
+deaf:: 12 surd
+
+snatched:: 12 înhățat
+
+rapped:: 12 lovi ușor
+
+scale:: 12 crustă
+
+stick:: 12 băț
+
+shutters:: 12 pleoape
+
+startled:: 12 speriat
+
+bulk:: 13 grămadă
+
+turf:: 13 iarba
+
+charred:: 13 făcut cărbune
+
+loafers:: 13 leneși
+
+faint:: 13 slab
+
+rusty:: 14 ruginit
+
+gleamed:: 14 licări
+
+crack:: 14 crăpătura
+
+hue:: 14 culoare
+
+lordly:: 14 pompos
+
+carriage:: 14 trăsură
+
+glaringly:: 15
+
+streamers:: 15 flamuri
+
+barrow-load:: 15 roabă
+
+wielding:: 15 mînuire
+
+spades:: 15 hîrlețe
+
+pickaxes:: 15 tîrnăcopuri
+
+pitched:: 15 înălbit
+
+crimson:: 15 stacojiu
+
+perspiration:: 15 sudoare
+
+manor:: 15 moșie
+
+railing:: 15 gard
+
+stirring:: 15
+
+tumult:: 15 zarvă
+
+common:: 17 islaz, parc
+
+elbowing:: 17
+
+jostling:: 17 ghionti
+
+swayed:: 17 legănat
+
+humming:: 17 bîzîit
+
+blundered:: 18 a face o gafă
+
+screw:: 18 șurub
+
+consussion:: 18 izbitură
+
+stirring:: 18 agitat
+
+billowy:: 18
+
+coiled:: 18 înfășurat
+
+writhing:: 18 zvîrcoli
+
+wriggled:: 18 șerpuit
+
+chill:: 18 frig
+
+shriek:: 18 țipăt
+
+glistened:: 18
+
+brim:: 18 margine
+
+quivered:: 18 freamăt
+
+panted:: 18 gîfîit
+
+heaved:: 18 agitat
+
+lank:: 18 deșirat
+
+ridges:: 19 punți
+
+chin:: 19 bărbie
+
+wedge-like:: 19 ca pana
+
+incessant:: 19 neîncetat
+
+nausea:: 19 amețeală
+
+fungoid:: 19
+
+clumsy:: 19 stîngaci
+
+tedious:: 19 incomod
+
+glimpse:: 19 scăpărare
+
+toppled:: 19 răsturnat
+
+thud:: 19 bubuitură
+
+forthwith:: 19 îndată
+
+aperture:: 19 deschizătură
+
+rigour:: 19 asprime
+
+slantingly:: 19
+
+stumbling:: 19 împiedicare
+
+avert:: 19 îndepărta
+
+furze:: 19
+
+panting:: 19 gîfîind
+
+bobbing:: 19 țopai
+
+overruled:: 20
+
+dwindling:: 20
+
+ditches:: 20 șanturi
+
+hdges:: 20 gard viu
+
+shouts:: 20 țipete
+
+derelict:: 20 abandonat
+
