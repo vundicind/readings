@@ -358,3 +358,92 @@ shouts:: 20 țipete
 
 derelict:: 20 abandonat
 
+glimpse:: 21 privire
+
+knee-deep:: 21
+
+mound:: 21 movilă
+
+longing:: 21 dor
+
+vantage:: 21 avantaj
+
+leash:: 21 lesă
+
+rod:: 21 tijă
+
+apex:: 21 vîrf
+
+spun:: 21 țesut
+
+wobbling:: 21
+
+knoll:: 22 creastă
+
+faint:: 22
+
+dusk:: 22 amurg
+
+intermittent:: 22 întrerupt
+
+stillness:: 22 liniște
+
+twos:: 22 perechi
+
+boldly:: 22
+
+clatter:: 22 zăngănit
+
+hoots:: 22 copite
+
+lad:: 22 tînăr
+
+trundling:: 22 rostogoli
+
+hasty:: 22 primpit
+
+flutter:: 22 fîlfîit
+
+inward:: 22 spre interior
+
+dim:: 23 neclar
+
+hazy:: 23 neclar
+
+puffs:: 23 nori
+
+hissing:: 23 fîsîi
+
+glare:: 23 stralucire
+
+leaping:: 23 sălta
+
+staggering:: 23
+
+shaft:: 23 săgeată
+
+burst:: 23 explodat
+
+dull:: 23
+
+stir:: 24 urni
+
+squeal:: 24 țipăt
+
+stilled:: 24
+
+dumbfounded:: 24 zăpăcit
+
+dazzled:: 24 orbit
+
+mustering:: 24
+
+wobbled:: 24 clătinat
+
+umanning:: 25 descurajat
+
+persuasion:: 25 convingere
+
+verge:: 25 margine
+
+leap:: 25 sări
