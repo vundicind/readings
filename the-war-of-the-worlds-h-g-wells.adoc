@@ -447,3 +447,207 @@ persuasion:: 25 convingere
 verge:: 25 margine
 
 leap:: 25 sări
+
+chamber:: 27 cameră
+
+beam:: 27 rază
+
+polished:: 27 lustruită
+
+brushed:: 27 curățat
+
+novelty:: 27 noutate
+
+hum:: 28 murmur
+
+gloaming:: 28 asfințit
+
+spinning:: 28
+
+deter:: 28 a opri
+
+booing:: huiduit
+
+hummock:: 28 movilă
+
+droning:: 29 zumzăi
+
+swung:: 29 legănat
+
+crumbling:: 29 surpa
+
+gable:: 29 fronton
+
+twigs:: 29 copaci
+
+bolted:: 29 zăvorît
+
+flock:: 29 turmă
+
+jammed:: 29 bruiat
+
+tramplet:: 29 tescuit
+
+blundering:: 31 greșind
+
+pitiless:: 31 nemilos
+
+whirling:: 31 roti
+
+flourishing:: 31
+
+cross-roads:: 31
+
+staggered:: 31 bălăbănit
+
+perplexed:: 31 nedumerit
+
+garment:: 31 haine
+
+burst:: 31 explodat
+
+feebleness:: 31
+
+anguish:: 31 chin
+
+unsteadly:: 31
+
+steep:: 31 abrupt
+
+mumblet:: 32 mormăit
+
+billowing:: 32 unduit
+
+caterpillar:: 32 omidă
+
+firelit:: 32
+
+gables:: 32
+
+serenity:: 32 seninătate
+
+yonder:: 32 de acolo
+
+abart:: 32 scrîntire
+
+startled:: 33 speriat
+
+neglected:: 33 neglijat
+
+sluggish:: 33 grea
+
+cope:: 33
+
+reassuring:: 34 liniști
+
+vividness:: 34 însuflețire
+
+lorder:: 34
+
+nest:: 34 cuib
+
+pitiless:: 34 nemilos
+
+topple:: 35 răsturnat
+
+canarad:: 34
+
+lanes:: 34
+
+whirl:: 35 vîrtej
+
+shunting:: 35 manevră
+
+alighting:: 36 coborîre
+
+mingled:: 36 contopit
+
+tidings:: 36 vești
+
+rattling:: 36 rapid
+
+veil:: 36 val
+
+lingered:: 36
+
+smouldering:: 37 mocni
+
+fringe:: 37
+
+clog:: 37
+
+vein:: 37
+
+stirring:: 37 agitat
+
+indefatigable:: 37 neobosit
+
+whirled:: 37 învîrti
+
+starlit:: 37
+
+lassitude:: 39 moleșeală
+
+lar:: 39
+
+rattle:: 39 hîrîit
+
+chariot:: 39 car
+
+chatted:: 39 pălăvrăgi
+
+strolled:: 39 cutreierat
+
+fence:: 39 gard
+
+calf:: 40
+
+plied:: 40 asaltat
+
+darned:: 40
+
+carn:: 40
+
+glimpse:: 41 privire
+
+dull:: 41
+
+lawn:: 42 gazon
+
+clattering:: 42 zornăi
+
+astonished:: 43 surprinși
+
+bevy:: 43 grup
+
+palings:: 43
+
+scent:: 45 miros
+
+hay:: 45 fîn
+
+lush:: 45 copios
+
+hedges:: 45
+
+feverishly:: 45 fertil
+
+fusillade:: 45 salvă
+
+lurid:: 47 înflăcări
+
+tug:: 47 smuncitură
+
+reins:: 47 frîu
+
+pierced:: 47 gaurit
+
+thunder:: 47 tunes
+
+hail:: 47 cădea
+
+smote:: 47 strînge
+
+gustily:: 47
+
+
