@@ -854,7 +854,45 @@ lurked:: 145
 I gripped myself with both hand:: 145
 encampment:: 145
 howling:: 146
-
-
+tussle:: 147
+desisted:: 147
+cajoled:: 147
+bribe:: 147
+babbling:: 147
+butt:: 149 pat
+lump of coal:: 151 bucata de carbune
+creeping:: 151 tiri
+parched:: 153 uscat
+ebbed:: 153
+throat:: 153 gitlej
+rainted:: 153 retinut
+rambling:: 153 ratacitor
+dozed:: 153 motai
+keen:: 153 puternic
+tottering:: 157 care se clatina
+mound:: 157 movila
+noisome:: 157 daunator
+den:: 157 vizuina
+lurid:: 157 in flacari
+inkling:: 157 aluzie
+tangle:: 158
+weed:: 158
+succumb:: 159
+slake:: 159
+needless:: 161
+latch:: 161
+grim:: 162
+cutlass:: 163
+culvert:: 164
+skedaddle:: 169
+parleyed:: 171
+reconnoitre:: 174
+wailing:: 179
+maggots:: 179
+mongrels:: 180
+dissuaded:: 188
+tramps:: 189
+swayed:: 192
+reckless:: 193
 
 
