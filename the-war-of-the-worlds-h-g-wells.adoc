@@ -650,4 +650,211 @@ smote:: 47 strînge
 
 gustily:: 47
 
+milking-stool:: 48 scaun de muls
+
+tilted:: 48
+
+brittle:: 48 fragil
+
+reeds:: 48
+
+thrusting:: 48 împinge
+
+snapped:: 48 frînt
+
+wrenched:: 48 forțat
+
+shafts:: 48 tijele
+
+flung:: 48 aruncat
+
+shallow:: 48 superficial
+
+crouched:: 48 gehmuit
+
+clump:: 48 bulgare
+
+furze:: 48
+
+striding:: 48 cu pași mari
+
+mere:: 48 simplu
+
+insenate:: 48 nesăbuit
+
+pace:: 48
+
+brazen:: 48
+
+surmounted:: 48 stapînit
+
+howl:: 49 urlet
+
+stooping:: 49 aplecare
+
+soaked:: 49 îmbibat
+
+hail:: 49 grindină
+
+puddle-water:: 49
+
+astonishment:: 49
+
+peril:: 49 primejdie
+
+squatter:: 49 fermier
+
+hut:: 49 cabană
+
+patch:: 49 petec
+
+hammered:: 49 ciocanit
+
+desisted:: 49 renunțat
+
+availing:: 49 inutil
+
+ditch:: 49
+
+shivering:: 49 zgribulit
+
+study:: 53 birou
+scud:: 53
+torpor:: 55 apatie
+unfastened:: 55 descuia
+stiff:: 55 betivan
+scob:: 55 oftat
+weep:: 55 plinge
+peeping:: 56 privi pe furis
+furtively:: 56
+leisurely:: 56 incet
+cowled:: 56
+scintillated:: 57 sclipi
+waddle:: 57 mers clatinat
+skulking:: 57
+mutton:: 58 carne de berbec
+pantry:: 58
+dwindled:: 58 scazut
+gaunt:: 58 slabanog
+wreckage:: 58 ramasite
+dawn:: 59 zori
+forthwith:: 59
+ransack:: 59 rascoli
+chimney-tops:: 60 virfuri de hornuri
+lane:: 60 straduta
+scorch:: 60 pirjoli
+eager:: 61 nerabdator
+cotage:: 62
+creakily:: 62
+byflett:: 63
+score of hussars:: 63 multi husari
+omnibus:: 63
+cellars:: 64 pivnite
+jesting:: 65 glumind
+inn:: 65 han
+yelping:: 65 care latra
+meadows:: 65
+burden:: 66 povara
+shoted:: 66 strigat
+unheeded:: 66 nebagat in seama
+muddy:: 66 noroios
+slippery:: 66 lunecos
+unvailingly:: 68
+haste:: 71 graba
+encumbered:: 71 impovarat
+sally:: 72 atac
+sodden:: 72 ud
+oars:: 72
+brevity:: 77 concizie
+pouring:: 79 siroind
+loafers:: 81
+smite:: 82 doboara
+attic:: 85 mansarda
+craned:: 86 intins
+garment:: 86 haina
+bawling:: 86 racni
+rubbing:: 87 frecau
+aimless:: 87 fara rost
+hastly:: 87 graba
+mingling:: 87 amestec
+smothered:: 87
+mist:: 91 ceata
+dewy:: 91 rourat
+nettles:: 91
+crescent:: 91 corn
+wading:: 95 a-si face drum
+sparing:: 96 econom
+frantic:: 96 nebunesc
+roaring:: 99
+lashing:: 99 fulgerind
+foaming:: 99 spumega
+footstore:: 107
+groans:: 107
+tap:: 108 robinet
+flung:: 109
+intinsclutching:: 109
+hoofs:: 109
+rim:: 109 obada
+slashed:: 109
+collar:: 109 guler
+lugged:: 109 trage
+clutched:: 109 apucat
+breadth:: 110
+weeping:: 110
+wrteched:: 110
+din:: 110 galagie
+swarming:: 110
+blotting-paper:: 114 sugativa
+hamstringing:: 114 a schilodi
+thinning:: 114
+remnant:: 114
+morrow:: 115
+seized:: 116 sechestru
+lurking:: 123 pindind
+whither:: 123 unde
+fled:: 123 refugiat
+aching:: 123 dureros
+paced:: 123 masurat
+circumspection:: 123
+hemmed:: 124 inconjurat
+slamming:: 124 trinti
+scalded:: 124 fript
+sodden:: 124
+rags:: 124 cirpe
+flannel:: 124 flonela
+contorted:: 125 rasucit
+cindery:: 125
+misadevnture:: 125 accidente
+lull:: 125 ragaz
+heap:: 125
+aghast:: 126 ingrozit
+perished:: 126
+shed:: 126 sura
+curate:: 126 vicar
+stir:: 126
+foolhardy:: 126 cutezator
+hatchet:: 127 baltag
+walled:: 127 zidit
+ham:: 127 jambon
+fancy:: 128
+quiver:: 130
+scullery:: 131 bucatarioara
+dozed:: 131 motait
+aperture:: 131
+tranquil:: 131
+plaster:: 131 ghips
+rampart:: 131
+slender:: 134 subtirel
+entrails:: 134 intestine
+nourishment:: 135 hrana
+pent:: 141
+flinging:: 143 aruncat
+shrieking:: 144
+lurked:: 145
+I gripped myself with both hand:: 145
+encampment:: 145
+howling:: 146
+
+
+
 
