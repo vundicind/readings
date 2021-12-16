@@ -1,7 +1,8 @@
 = Deathworld, by Harri Harrison
 
-
-sprawled:: 2 se întinsese, se tolănise 
+sprawled:: <<pagina, p.>> 2. s-a tolănit.
+sprawl::: https://en.wiktionary.org/wiki/sprawl[through a Proto-Germanic form cognate with *spreutaną (“to sprout”)].
+sproute:::: <<intranz, _vi_.>> a țâșni.
 
 sprawl:: a se întinde, a sta tolănit, a se lafăi
 
@@ -90,3 +91,8 @@ jabbed:: 4 împins, înghiontit, vârât
 ore:: 5 minereu
 
 worn:: 5 purtat, uzat
+
+== Lista de abrevieri
+
+[[pagina]]p.:: pagina
+[[intranz]]vi.:: verb intranzitiv
