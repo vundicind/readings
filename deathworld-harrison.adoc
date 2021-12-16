@@ -96,6 +96,6 @@ wear::: [wɛə] https://en.wiktionary.org/wiki/wear[Cognate to  Latin vestis (�
 [[pagina]]p.:: pagina
 [[intranz]]vi.:: verb intranzitiv
 [[tranz]]vt.:: verb tranzitiv
-[[part. trec.]]:: participiu trecut
+[[part]]part. trec.:: participiu trecut
 
 https://www.ling.upenn.edu/courses/Fall_2014/ling115/phonetics.html
