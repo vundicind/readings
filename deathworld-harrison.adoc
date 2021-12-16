@@ -88,11 +88,13 @@ jabbed:: 4 împins, înghiontit, vârât
 
 ore:: 5 minereu
 
-worn:: 5 purtat, uzat
+worn:: [wɔ:n] <<pagina, p.>> 5. _adj._ obosit; uzat. _vt._, _vi._ _part._ _trec._ _de la_ wear.
 
 == Lista de abrevieri
 
 [[pagina]]p.:: pagina
 [[intranz]]vi.:: verb intranzitiv
+[[tranz]]vt.:: verb tranzitiv
+[[part. trec.]]:: participiu trecut
 
 https://www.ling.upenn.edu/courses/Fall_2014/ling115/phonetics.html
