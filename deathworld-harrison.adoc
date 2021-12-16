@@ -1,10 +1,8 @@
 = Deathworld, by Harri Harrison
 
 sprawled:: <<pagina, p.>> 2. s-a tolănit.
-sprawl::: https://en.wiktionary.org/wiki/sprawl[through a Proto-Germanic form cognate with *spreutaną (“to sprout”)].
-sproute:::: <<intranz, _vi_.>> a țâșni.
-
-sprawl:: a se întinde, a sta tolănit, a se lafăi
+sprawl::: [sprɔ:l] https://en.wiktionary.org/wiki/sprawl[through a Proto-Germanic form cognate with *spreutaną (“to sprout”)].
+sproute:::: [spraut] <<intranz, _vi_.>> a țâșni.
 
 stein:: 2 pahar special de bere; https://en.wiktionary.org/wiki/stein[A beer mug, usually made of ceramic or glass.]
 
@@ -96,3 +94,5 @@ worn:: 5 purtat, uzat
 
 [[pagina]]p.:: pagina
 [[intranz]]vi.:: verb intranzitiv
+
+https://www.ling.upenn.edu/courses/Fall_2014/ling115/phonetics.html
