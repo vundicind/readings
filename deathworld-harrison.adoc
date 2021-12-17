@@ -6,9 +6,8 @@ sproute:::: [spraut] <<intranz, _vi_.>> a țâșni.
 
 stein:: [staɪn] p. 2. pahar special de bere. https://en.wiktionary.org/wiki/stein[A beer mug, usually made of ceramic or glass].
 
-limply:: 2 alene, domol, fără vlagă
-
-limp:: adj. moale, flexibil, mlădios, lipsit de energie; verb. a șciopăta 
+limply:: p. 2. alene, domol, fără vlagă.
+limp::: [lɪmp] adj. moale, flexibil, mlădios, lipsit de energie; verb. a șchiopăta 
 
 casually:: 2 accidental, nelglijent, neoficial, provizoriu
 
