@@ -147,4 +147,15 @@ bog:: mlastina
 riffraff: lepădături, gunoaie, resturi
 lot:: destin, grup, lot, mulțime, soartă, tragere la sorț
 trig:: îngrijit, arător, stilat, viguros
-mourn: a boci, a jeli
+mourn:: a boci, a jeli
+maidenhead:: castitate
+prudish:: ultramoralist
+littered:: murdarit
+stubborn:: incapatanat, ferm, insistent
+spun:: tesut, tors
+navel:: buric
+besiegers:: asediatori
+errant:: ratacitor
+remorse:: remuscare
+gossip::: barfa
+obeyed:: a ascultat, a indeplinit
