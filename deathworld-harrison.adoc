@@ -1,5 +1,7 @@
 = Deathworld, by Harri Harrison
 
+https://www.wordreference.com/enro/
+
 sprawled:: <<pagina, p.>> 2. s-a tolănit.
 sprawl::: [sprɔ:l] https://en.wiktionary.org/wiki/sprawl[through a Proto-Germanic form cognate with *spreutaną (“to sprout”)].
 sproute:::: [spraut] <<intranz, _vi_.>> a țâșni.
@@ -90,6 +92,14 @@ ore:: [ɔ:] p. 5. minereu.
 
 worn:: [wɔ:n] <<pagina, p.>> 5. _adj._ obosit; uzat. _vt._, _vi._ _part._ _trec._ _de la_ wear.
 wear::: [wɛə] https://en.wiktionary.org/wiki/wear[Cognate to  Latin vestis (“garment”)]
+
+wryly:: [ˈraɪlɪ] pe un ton mucalit
+
+tan:: bronz
+
+leisurely:: încet, pe îndelete, tacticos
+
+scarcely:: abia, apropae deloc
 
 == Lista de abrevieri
 
